@@ -13,6 +13,6 @@ int main(void)
     sum = a + b;
 
     printf("Sum: %d", sum);
-    printf("Github says hello!");
+    printf("Github says testning för att mergea (bad)");
 }
 // Testing conflicts and merging
