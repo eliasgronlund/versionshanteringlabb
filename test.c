@@ -14,3 +14,4 @@ int main(void)
     printf("Sum: %d", sum);
     printf("Github says hello!");
 }
+// Testing conflicts and merging
