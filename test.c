@@ -12,5 +12,5 @@ int main(void)
     sum = a + b;
 
     printf("Sum: %d", sum);
-    
+    printf("Github says hello!")
 }
