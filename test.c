@@ -1,4 +1,3 @@
-//Testing conflicts and merging
 #include <stdio.h>
 
 int main(void)
@@ -15,4 +14,4 @@ int main(void)
     printf("Sum: %d", sum);
     printf("Github says, testing merge conflicts part 2");
 }
-// Testing conflicts and merging
+// Experimental fork test
